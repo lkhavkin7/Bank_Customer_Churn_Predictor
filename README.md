@@ -17,19 +17,6 @@ F1 Score, ROC AUC.
 Custom interaction feature (Total_Trans_Amt_per_Ct); feature selection using Random Forest importances for model refinement.
 This project highlights skills in customer analytics, feature engineering, and predictive modeling for financial services.
 
-# Requirements
-Python 3.x
-Jupyter Notebook
-Libraries:
-numpy
-pandas
-matplotlib
-seaborn
-scikit-learn
-Install via:
-
-
-
 ## Dataset
 Download the dataset from Kaggle: Credit Card Customers. Place BankChurners.csv in the project directory.
 
